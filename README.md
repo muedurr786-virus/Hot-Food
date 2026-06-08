@@ -10,8 +10,6 @@ Product page
 
 Installation:
 1.Clone the Repo
-
-git clone https://github.com/shyam999/Hot-Food.git
 2.Setup pipenv & Install Requirements
 
 pip install pipenv
